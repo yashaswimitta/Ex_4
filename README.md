@@ -45,6 +45,10 @@ RegisterNumber:
 
 ## activity_main.xml:
 
+
+## AndroidManifest.xml
+
+
 ## Output:
 
 
